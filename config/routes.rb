@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get "users/new"
+  get "users/create"
 
   root to: 'products#index'
 
@@ -17,6 +19,8 @@ Rails.application.routes.draw do
     resources :products, except: [:edit, :update, :show]
     resources :categories, only: [:index, :new, :create]
   end
+
+  resources :users, only: [:new, :create]
 
   get 'about' => 'about#index'
   # The priority is based upon order of creation: first created -> highest priority.
