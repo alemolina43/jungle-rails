@@ -345,12 +345,13 @@ DEPENDENCIES
   jquery-rails
   listen (~> 3.3)
   money-rails
+  net-smtp
   pg
   puma (~> 6.0)
   rack-mini-profiler (~> 2.0)
   rails (~> 7.1)
   rmagick
-  rspec-rails
+  rspec-rails (~> 5.1)
   sass-rails (>= 6)
   sdoc
   selenium-webdriver
