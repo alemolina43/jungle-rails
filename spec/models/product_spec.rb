@@ -35,7 +35,6 @@ RSpec.describe Product, type: :model do
         category: @category
       )
       expect(@product).to_not be_valid
-      puts @product.errors.full_messages
       expect(@product.errors.full_messages).to include("Price cents must be greater than 0")
     end
 
