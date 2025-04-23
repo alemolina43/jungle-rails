@@ -47,7 +47,7 @@ If Rails is complaining about authentication to the database, uncomment the user
 - View a dashboard with total counts for products and categories.
 - Protected by HTTP basic authentication to keep things secure.
 
-## Testing 📓
+## Testing
 
 - Unit tests using **RSpec**
 - End-to-end testing with **Cypress**
