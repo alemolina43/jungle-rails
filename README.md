@@ -2,6 +2,17 @@
 
 A mini online store where users can browse and buy plants! It’s a full-stack Ruby on Rails app. This project was initially provided as a base — I worked on fixing bugs and adding new functionality and validations to improve user experience.
 
+## Table of Contents
+
+- [Setup](#setup)
+- [Database](#database)
+- [Features](#features)
+- [Testing](#testing)
+- [Dependencies](#dependencies)
+- [Dependencies](#dependencies)
+- [Currently working on](#currently-working-on)
+- [Final product](#currently-working-on)
+
 ## Setup
 
 1. Clone this repo
@@ -36,7 +47,7 @@ If Rails is complaining about authentication to the database, uncomment the user
 - View a dashboard with total counts for products and categories.
 - Protected by HTTP basic authentication to keep things secure.
 
-## Testing 📓
+## Testing
 
 - Unit tests using **RSpec**
 - End-to-end testing with **Cypress**
@@ -48,7 +59,7 @@ To run Cypress (you may need to start the server in another terminal):
 `bin/rails cypress:init`
 `bin/rails cypress:open`
 
-## Built With
+## Dependencies
 
 - **Ruby** & **Ruby on Rails**
 - **PostgreSQL**
@@ -66,3 +77,8 @@ To run Cypress (you may need to start the server in another terminal):
 - Inventory adjustments
 
 ## Final product
+!["Main page"]()
+![""]()
+![""]()
+![""]()
+![""]()
