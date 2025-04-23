@@ -77,8 +77,14 @@ To run Cypress (you may need to start the server in another terminal):
 - Inventory adjustments
 
 ## Final product
-!["Main page"]()
-![""]()
-![""]()
-![""]()
-![""]()
+!["Home page"](https://github.com/alemolina43/jungle-rails/blob/master/docs/Homepage.png)
+!["Register"](https://github.com/alemolina43/jungle-rails/blob/master/docs/Register.png)
+!["Login"](https://github.com/alemolina43/jungle-rails/blob/master/docs/Login-page.png)
+!["Category list"](https://github.com/alemolina43/jungle-rails/blob/master/docs/Product-list.png)
+!["Product detail"](https://github.com/alemolina43/jungle-rails/blob/master/docs/Product-details.png)
+!["My cart"](https://github.com/alemolina43/jungle-rails/blob/master/docs/My-cart.png)
+!["Order page"](https://github.com/alemolina43/jungle-rails/blob/master/docs/Order-details.png)
+!["Admin product list"](https://github.com/alemolina43/jungle-rails/blob/master/docs/Admin-all-products.png)
+!["Admin categories"](https://github.com/alemolina43/jungle-rails/blob/master/docs/Admin-all-categories.png)
+!["Stripe checkout"](https://github.com/alemolina43/jungle-rails/blob/master/docs/Stripe-checkout.png)
+!["Empty cart alert message"](https://github.com/alemolina43/jungle-rails/blob/master/docs/Empty-cart.png)
